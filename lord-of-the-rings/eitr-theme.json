@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "lord-of-the-rings",
+  "name": "Lord of the Rings",
+  "description": "One Ring gold on Middle-earth night with Lord of the Rings fan art",
+  "version": "1.0.0",
+  "light": false
+}
